@@ -1,0 +1,47 @@
+LOG Actividad 2
+A continuación se puede observar el registro del log de la actividad 2:
+
+commit 720c38091ca9eadee896849f42267a3dc927e013 (HEAD -> master, origin/master)
+Merge: 78e861a ebc70fc
+Author: Chava27 <chavasalgado27@gmail.com>
+Date:   Fri May 7 12:25:06 2021 -0500
+
+    Merge branch 'Rama_Chava_27'
+    Introducir correción a rama master
+
+commit ebc70fc329389f205f02a9cd2ea6d668b9011e68 (origin/Rama_Chava_27, Rama_Chava_27)
+Author: Chava27 <chavasalgado27@gmail.com>
+Date:   Fri May 7 12:24:16 2021 -0500
+
+    Move food
+
+commit 78e861a29f637839d321713e3403424b19311133
+Author: Chava27 <chavasalgado27@gmail.com>
+Date:   Fri May 7 11:47:06 2021 -0500
+
+    Comprobacion
+
+commit eb60d11f8f1cbf03387d3897bb3688562d1b1f13
+Author: Chava27 <chavasalgado27@gmail.com>
+Date:   Thu May 6 20:04:40 2021 -0500
+
+    Log Update
+
+commit 9c6a050f2dcfbf979dbd8f84750ec631a2ca4d00 (HEAD -> master, origin/master)
+Author: Chava27 <chavasalgado27@gmail.com>
+Date:   Thu May 6 19:35:36 2021 -0500
+
+    Agregar txt logs
+
+commit 9514d32135b5323dd666b3be08f891d521b11144 (origin/Rama_Chava_27, Rama_Chava_27)
+Author: Chava27 <chavasalgado27@gmail.com>
+Date:   Thu May 6 19:13:48 2021 -0500
+
+    Color al azar
+
+commit 43261582b759f4ac71a609fc16ebd0bba8e1cc70
+Author: Chava27 <chavasalgado27@gmail.com>
+Date:   Thu May 6 17:51:28 2021 -0500
+
+    Primer Commit
+

@@ -1,1 +1,0 @@
-# Stec_Actividad2
